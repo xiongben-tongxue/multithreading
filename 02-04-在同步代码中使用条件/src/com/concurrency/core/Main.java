@@ -1,5 +1,6 @@
 package com.concurrency.core;
 
+import com.concurrency.task.Consumer;
 import com.concurrency.task.EventStorage;
 import com.concurrency.task.Producer;
 
@@ -19,5 +20,14 @@ public class Main {
         Thread producerThread = new Thread(producer);
 
         //创建一个事件消费者对象，并且将其放到一个线程中去运行
+        Consumer consumer = new Consumer(eventStorage);
+        Thread consumerThread = new Thread(consumer);
+
+        //启动线程
+        consumerThread.start();
+        producerThread.start();
+
+        //这边不需要手动去停止程序。
+        //线程调用了一次，run()就只生产100个事件，消费完了就没有了
     }
 }

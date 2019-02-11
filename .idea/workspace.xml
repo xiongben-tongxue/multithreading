@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88fad0d3-145a-41f5-84a4-aeff9e77d51f" name="Default Changelist" comment="" />
+    <list default="true" id="88fad0d3-145a-41f5-84a4-aeff9e77d51f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-04-在同步代码中使用条件/src/com/concurrency/core/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-04-在同步代码中使用条件/src/com/concurrency/core/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02-04-在同步代码中使用条件/src/com/concurrency/core/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+            <state relative-caret-position="402">
+              <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,6 +85,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -146,6 +152,7 @@
     <option name="width" value="938" />
     <option name="height" value="828" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -164,27 +171,6 @@
               <item name="multithreading" type="462c0819:PsiDirectoryNode" />
               <item name="02-04-在同步代码中使用条件" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="multithreading" type="b2602c69:ProjectViewProjectNode" />
-              <item name="multithreading" type="462c0819:PsiDirectoryNode" />
-              <item name="02-04-在同步代码中使用条件" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="multithreading" type="b2602c69:ProjectViewProjectNode" />
-              <item name="multithreading" type="462c0819:PsiDirectoryNode" />
-              <item name="02-04-在同步代码中使用条件" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="multithreading" type="b2602c69:ProjectViewProjectNode" />
-              <item name="multithreading" type="462c0819:PsiDirectoryNode" />
-              <item name="02-04-在同步代码中使用条件" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -195,7 +181,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549886538355" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549886907543" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -223,10 +209,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.concurrency.core.Main" />
-      <module name="01-12-线程组中不可控制异常的处理" />
+      <module name="02-04-在同步代码中使用条件" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.concurrency.core.*" />
@@ -298,11 +284,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -321,15 +307,16 @@
       <workItem from="1549090636200" duration="202000" />
       <workItem from="1549090844906" duration="3871000" />
       <workItem from="1549095109640" duration="7228000" />
-      <workItem from="1549848712969" duration="23488000" />
+      <workItem from="1549848712969" duration="23758000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40431000" />
+    <option name="totallyTimeSpent" value="40701000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="839" y="43" width="938" height="828" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29017857" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -901,8 +888,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02-04-在同步代码中使用条件/src/com/concurrency/core/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        <state relative-caret-position="402">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
