@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-02-线程的创建和运行/01-02-线程的创建和运行.iml" filepath="$PROJECT_DIR$/01-02-线程的创建和运行/01-02-线程的创建和运行.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-03-线程信息的获取和设置/01-03-线程信息的获取和设置.iml" filepath="$PROJECT_DIR$/01-03-线程信息的获取和设置/01-03-线程信息的获取和设置.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-04-线程的中断/01-04-线程的中断.iml" filepath="$PROJECT_DIR$/01-04-线程的中断/01-04-线程的中断.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-05-线程中断的控制/01-05-线程中断的控制.iml" filepath="$PROJECT_DIR$/01-05-线程中断的控制/01-05-线程中断的控制.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-06-线程的休眠和恢复/01-06-线程的休眠和恢复.iml" filepath="$PROJECT_DIR$/01-06-线程的休眠和恢复/01-06-线程的休眠和恢复.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-07-等待线程的终止/01-07-等待线程的终止.iml" filepath="$PROJECT_DIR$/01-07-等待线程的终止/01-07-等待线程的终止.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-08-守护线程的创建和运行/01-08-守护线程的创建和运行.iml" filepath="$PROJECT_DIR$/01-08-守护线程的创建和运行/01-08-守护线程的创建和运行.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-09-线程中不可控异常的处理/01-09-线程中不可控异常的处理.iml" filepath="$PROJECT_DIR$/01-09-线程中不可控异常的处理/01-09-线程中不可控异常的处理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-10-线程局部变量的使用/01-10-线程局部变量的使用.iml" filepath="$PROJECT_DIR$/01-10-线程局部变量的使用/01-10-线程局部变量的使用.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-11-线程分组/01-11-线程分组.iml" filepath="$PROJECT_DIR$/01-11-线程分组/01-11-线程分组.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-12-线程组中不可控制异常的处理/01-12-线程组中不可控制异常的处理.iml" filepath="$PROJECT_DIR$/01-12-线程组中不可控制异常的处理/01-12-线程组中不可控制异常的处理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-13-使用工厂类创建线程/01-13-使用工厂类创建线程.iml" filepath="$PROJECT_DIR$/01-13-使用工厂类创建线程/01-13-使用工厂类创建线程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-01-没有使用synchronized实现同步方法-问题/02-01-没有使用synchronized实现同步方法-问题.iml" filepath="$PROJECT_DIR$/02-01-没有使用synchronized实现同步方法-问题/02-01-没有使用synchronized实现同步方法-问题.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-02-使用synchronized实现同步方法-解决/02-02-使用synchronized实现同步方法-解决.iml" filepath="$PROJECT_DIR$/02-02-使用synchronized实现同步方法-解决/02-02-使用synchronized实现同步方法-解决.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-03-使用非依赖属性实现同步/02-03-使用非依赖属性实现同步.iml" filepath="$PROJECT_DIR$/02-03-使用非依赖属性实现同步/02-03-使用非依赖属性实现同步.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-04-在同步代码中使用条件/02-04-在同步代码中使用条件.iml" filepath="$PROJECT_DIR$/02-04-在同步代码中使用条件/02-04-在同步代码中使用条件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-09-现实定制Lock类/07-09-现实定制Lock类.iml" filepath="$PROJECT_DIR$/07-09-现实定制Lock类/07-09-现实定制Lock类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multithreading.iml" filepath="$PROJECT_DIR$/multithreading.iml" />
+    </modules>
+  </component>
+</project>
