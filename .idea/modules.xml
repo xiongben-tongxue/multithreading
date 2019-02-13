@@ -32,6 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/04-02-创建线程执行器/04-02-创建线程执行器.iml" filepath="$PROJECT_DIR$/04-02-创建线程执行器/04-02-创建线程执行器.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-03-创建固定大小的任务执行器/04-03-创建固定大小的任务执行器.iml" filepath="$PROJECT_DIR$/04-03-创建固定大小的任务执行器/04-03-创建固定大小的任务执行器.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-04-在执行器中执行任务并返回结果/04-04-在执行器中执行任务并返回结果.iml" filepath="$PROJECT_DIR$/04-04-在执行器中执行任务并返回结果/04-04-在执行器中执行任务并返回结果.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-05-运行多个任务并处理第一个结果/04-05-运行多个任务并处理第一个结果.iml" filepath="$PROJECT_DIR$/04-05-运行多个任务并处理第一个结果/04-05-运行多个任务并处理第一个结果.iml" />
       <module fileurl="file://$PROJECT_DIR$/07-09-现实定制Lock类/07-09-现实定制Lock类.iml" filepath="$PROJECT_DIR$/07-09-现实定制Lock类/07-09-现实定制Lock类.iml" />
       <module fileurl="file://$PROJECT_DIR$/multithreading.iml" filepath="$PROJECT_DIR$/multithreading.iml" />
     </modules>
