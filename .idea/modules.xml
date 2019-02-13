@@ -18,6 +18,20 @@
       <module fileurl="file://$PROJECT_DIR$/02-02-使用synchronized实现同步方法-解决/02-02-使用synchronized实现同步方法-解决.iml" filepath="$PROJECT_DIR$/02-02-使用synchronized实现同步方法-解决/02-02-使用synchronized实现同步方法-解决.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-03-使用非依赖属性实现同步/02-03-使用非依赖属性实现同步.iml" filepath="$PROJECT_DIR$/02-03-使用非依赖属性实现同步/02-03-使用非依赖属性实现同步.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-04-在同步代码中使用条件/02-04-在同步代码中使用条件.iml" filepath="$PROJECT_DIR$/02-04-在同步代码中使用条件/02-04-在同步代码中使用条件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-05-用Lock锁实现同步/02-05-用Lock锁实现同步.iml" filepath="$PROJECT_DIR$/02-05-用Lock锁实现同步/02-05-用Lock锁实现同步.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-06-使用读写锁实现同步数据访问/02-06-使用读写锁实现同步数据访问.iml" filepath="$PROJECT_DIR$/02-06-使用读写锁实现同步数据访问/02-06-使用读写锁实现同步数据访问.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-07-修改锁的公平性Lock/02-07-修改锁的公平性Lock.iml" filepath="$PROJECT_DIR$/02-07-修改锁的公平性Lock/02-07-修改锁的公平性Lock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-08-在锁中使用多条件/02-08-在锁中使用多条件.iml" filepath="$PROJECT_DIR$/02-08-在锁中使用多条件/02-08-在锁中使用多条件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-02-资源并发控制访问/03-02-资源并发控制访问.iml" filepath="$PROJECT_DIR$/03-02-资源并发控制访问/03-02-资源并发控制访问.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-03-资源的多副本的并发控制访问/03-03-资源的多副本的并发控制访问.iml" filepath="$PROJECT_DIR$/03-03-资源的多副本的并发控制访问/03-03-资源的多副本的并发控制访问.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-04-等待多个并发事件的完成/03-04-等待多个并发事件的完成.iml" filepath="$PROJECT_DIR$/03-04-等待多个并发事件的完成/03-04-等待多个并发事件的完成.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-05-在集合点的同步/03-05-在集合点的同步.iml" filepath="$PROJECT_DIR$/03-05-在集合点的同步/03-05-在集合点的同步.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-06-并发阶段任务的运行/03-06-并发阶段任务的运行.iml" filepath="$PROJECT_DIR$/03-06-并发阶段任务的运行/03-06-并发阶段任务的运行.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-07-并发阶段任务中的阶段切换/03-07-并发阶段任务中的阶段切换.iml" filepath="$PROJECT_DIR$/03-07-并发阶段任务中的阶段切换/03-07-并发阶段任务中的阶段切换.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-08-并发任务间的数据交换/03-08-并发任务间的数据交换.iml" filepath="$PROJECT_DIR$/03-08-并发任务间的数据交换/03-08-并发任务间的数据交换.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-02-创建线程执行器/04-02-创建线程执行器.iml" filepath="$PROJECT_DIR$/04-02-创建线程执行器/04-02-创建线程执行器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-03-创建固定大小的任务执行器/04-03-创建固定大小的任务执行器.iml" filepath="$PROJECT_DIR$/04-03-创建固定大小的任务执行器/04-03-创建固定大小的任务执行器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-04-在执行器中执行任务并返回结果/04-04-在执行器中执行任务并返回结果.iml" filepath="$PROJECT_DIR$/04-04-在执行器中执行任务并返回结果/04-04-在执行器中执行任务并返回结果.iml" />
       <module fileurl="file://$PROJECT_DIR$/07-09-现实定制Lock类/07-09-现实定制Lock类.iml" filepath="$PROJECT_DIR$/07-09-现实定制Lock类/07-09-现实定制Lock类.iml" />
       <module fileurl="file://$PROJECT_DIR$/multithreading.iml" filepath="$PROJECT_DIR$/multithreading.iml" />
     </modules>

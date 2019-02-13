@@ -10,6 +10,9 @@
     <file url="file://$PROJECT_DIR$/02-02-使用synchronized实现同步方法-解决/src/concurrency/task/Bank.java" charset="ISO-8859-1" />
     <file url="file://$PROJECT_DIR$/02-02-使用synchronized实现同步方法-解决/src/concurrency/task/Company.java" charset="ISO-8859-1" />
     <file url="file://$PROJECT_DIR$/02-03-使用非依赖属性实现同步/src/com/concurrency/task/TicketOffice2.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/04-03-创建固定大小的任务执行器/src/com/concurrency/task/Server.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/04-03-创建固定大小的任务执行器/src/com/concurrency/task/Server.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/04-03-创建固定大小的任务执行器/src/com/concurrency/task/Task.java" charset="ISO-8859-1" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

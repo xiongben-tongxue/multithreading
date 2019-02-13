@@ -2,8 +2,8 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../02-01-没有使用synchronized实现同步方法-问题">
-      <sourceFolder url="file://$MODULE_DIR$/../02-01-没有使用synchronized实现同步方法-问题/src" isTestSource="false" />
+    <content url="file://$MODULE_DIR$/../02-05-用Lock锁实现同步">
+      <sourceFolder url="file://$MODULE_DIR$/../02-05-用Lock锁实现同步/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
